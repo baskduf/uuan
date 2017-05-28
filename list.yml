@@ -1,12 +1,11 @@
+---
 Avatar:
-  1.1.1.1: "wharan Online"
-  220.77.216.140: "wjaran serevrr"
-  45.76.202.95: "Event Online"
-  45.76.223.34: "siu server" 
-  45.76.197.141: "siu server"
-EconomyJob:
-  1.1.1.1: "wharan Online"
+  45.76.197.141: siu
+  45.76.202.95: siu 
 guild:
-  1.1.1.1: "wharan Online" 
+  1.1.1.1: siu
+EconomyJob:
+  1.1.1.1: siu
 ItemCase:
-  1.1.1.1: "wharan Online" 
+  1.1.1.1: siu
+... 
