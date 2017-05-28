@@ -1,12 +1,10 @@
----
 Avatar:
-  45.76.197.141: siu
-  45.76.202.95: siu 
-guild:
-  1.1.1.1: siu
+ 45.76.202.95: "Server"
+ 220.77.216.140: "Server"
+ 45.76.197.141: "Server"
 EconomyJob:
-  1.1.1.1: siu
+ 1.1.1.1: "Server"
+guild:
+ 1.1.1.1: "erver"
 ItemCase:
-  1.1.1.1: siu
-  220.77.216.140: siu 
-... 
+ 220.77.216.140: "Online"
